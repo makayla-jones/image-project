@@ -35,6 +35,10 @@ p{
 body{
   background-image: url(137871.jpg);
   background-repeat:no-repeat;
-  background-size:180%;
+  background-size:cover;
+  background-position:center;
+  height:1000px;
+  
+  
   
 }
